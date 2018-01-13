@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Parabéns! Você está no Free Coins Brasil!
 
 You can use the [editor on GitHub](https://github.com/freecoinsbrasil/fcb/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
